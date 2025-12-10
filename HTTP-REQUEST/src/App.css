@@ -1,0 +1,15 @@
+
+.container{
+    /* border: 2px solid green; */
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr ;
+padding: 30px;
+  
+}
+body{
+    background-color: rgb(52, 111, 52);
+}
+
+.ImageCon{
+    border-radius: 20px;
+}
